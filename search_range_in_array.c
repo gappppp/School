@@ -1,3 +1,8 @@
+/*
+Descrizione:Algoritmo di ricerca in un vettore di un range di valori
+Input:range (da ... a ... di numeri) 
+Output:posizioni dei valori all’interno dell’array e relative frequenze
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
