@@ -1,3 +1,8 @@
+/*
+Descrizione:Algoritmo di ricerca di una stringa all'interno di un vettore di caratteri randomizzati 
+Input:Stringa da cercare
+Output:Frequenza della stringa all’interno del vettore e relative posizioni
+*/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
